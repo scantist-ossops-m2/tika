@@ -87,9 +87,9 @@
 
     <!-- Upstream parser libraries -->
     <dependency>
-      <groupId>org.tallison</groupId>
+      <groupId>net.sourceforge.jmatio</groupId>
       <artifactId>jmatio</artifactId>
-      <version>1.2</version>
+      <version>1.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.james</groupId>
